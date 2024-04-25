@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /kayitsayfasigizliolacakxdrr
+Disallow: /girissayfasigizliolacakxdrr
+Disallow: /yazareklegizli
+Disallow: /habergfyazz
+Disallow: /kullaniciyazarsilsayfagizli
+Disallow: /write
